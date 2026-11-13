@@ -1,5 +1,7 @@
 # ALEF Language Packs
 
+![Rimon, a small round pomegranate character, standing on a pile of unmarked gift packs](docs/social-preview.png)
+
 Static files for the ALEF Talk screen: two small Hebrew and English translation models (OPUS-MT, Apache-2.0) and the WebAssembly runtime that runs them (onnxruntime-web, MIT). Built from the ALEF repository with `node tools/talk/nmt/export-host.mjs`. Nothing here is edited by hand.
 
 The `audio/f/israeli/` folder holds the woman's Israeli voice clips, copied from the same folder in the ALEF repository. The
